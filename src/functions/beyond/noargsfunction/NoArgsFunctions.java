@@ -1,4 +1,4 @@
-package bifunctions.beyond.noargsfunction;
+package functions.beyond.noargsfunction;
 
 public class NoArgsFunctions {
     public static void main(String[] args) {

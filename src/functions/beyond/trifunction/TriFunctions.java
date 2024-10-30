@@ -1,4 +1,4 @@
-package bifunctions.beyond.trifunction;
+package functions.beyond.trifunction;
 
 public class TriFunctions {
     public static void main(String[] args) {

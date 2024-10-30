@@ -1,4 +1,4 @@
-package bifunctions.beyond.bifunction;
+package functions.beyond.bifunction;
 
 import java.util.function.BiFunction;
 

@@ -1,4 +1,6 @@
-import bifunctions.beyond.noargsfunction.NoArgsFunction;
+package functions;
+
+import functions.beyond.noargsfunction.NoArgsFunction;
 
 public class FunctionsAsData {
     protected static class Person{
