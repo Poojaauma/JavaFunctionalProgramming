@@ -3,7 +3,7 @@ package functions;
 import functions.beyond.noargsfunction.NoArgsFunction;
 
 /**
- * functions.Closure means when a function that returns another function
+ * Closure means when a function that returns another function
  * , the function that we return still has access to that internal scope
  */
 public class Closure {
